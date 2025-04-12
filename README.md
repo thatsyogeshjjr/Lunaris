@@ -29,13 +29,11 @@ Libraries:
 - PDF/CSV:
   reportlab or pdfkit for PDF
   pandas.to_csv() for CSV export
-
-# Demo Videos
-- [Crop Prediction](https://youtu.be/i9wpE1C-MpA)
  
 ## App Details
 - Crop Prediction: uses Decision Tree for prediction of crop based on nitrogetn, potassium, phosphorus, rainfall and temperature parameters
-
+- Irrigation Prediction: uses Random Forest for predicting irrigation need of crops (in development)
+- Water Footprint: uses Random Forest for predicting water footprint of the crops (in development)
 
 ## Feature List 
 - [x] Regression model for water blueprint for water blueprint prediction
