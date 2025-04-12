@@ -4,6 +4,14 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 ## Tentative user interfaces
 <img src="https://github.com/user-attachments/assets/224e3350-cf70-4f2b-b786-ae991b12a1a1" height=360>
 <img src="https://github.com/user-attachments/assets/7c7dce33-c6a1-4e13-bfcd-c308d857e33a" height=360>
+<br>
+
+## Screenshots for user Interfaces and results in streamlit
+<img src="https://github.com/user-attachments/assets/64878038-274c-4d5c-8037-3c9f41413cae" height=240>
+<img src="https://github.com/user-attachments/assets/5a00f6dd-694f-4199-8da9-9e6e495dfd34" height=240>
+<img src="https://github.com/user-attachments/assets/0ba6d387-83ab-4b37-95ed-27ef254f5bad" height=240>
+
+
 
 ## Tech Stack
 ### Backend (Core Brain of the System)
