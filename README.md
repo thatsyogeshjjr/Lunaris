@@ -32,10 +32,11 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 - PDF/CSV:
   reportlab or pdfkit for PDF
   pandas.to_csv() for CSV export
-### AI, transformers, Models
-- **Decision Tree Classifier**:  for predicting suitable crop based on parameters like K,N,pH,etc.
-- 
 
+  
+## App Details
+- Crop Prediction: uses Decision Tree for prediction of crop based on nitrogetn, potassium, phosphorus, rainfall and temperature parameters
+- 
 
 
 ## Feature List
