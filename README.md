@@ -38,6 +38,7 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 
 ## Feature List
 - [x] Crop prediction
+- [x] Irrigation Prediction
 - [ ] Personalized Crop Advisory
 - [ ] Weather Forecasting
 - [ ] Market Information
