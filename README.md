@@ -5,10 +5,10 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 
 
 ## Feature List
--[ ] Personalized Crop Advisory
--[ ] Weather Forecasting
--[ ] Market Information
--[ ] Farm Record Management
+- [ ] Personalized Crop Advisory
+- [ ] Weather Forecasting
+- [ ] Market Information
+- [ ] Farm Record Management
 
 
 ## Making application accessible
