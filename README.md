@@ -34,8 +34,6 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
   pandas.to_csv() for CSV export
 ### AI, transformers, Models
 - **Decision Tree Classifier**:  for predicting suitable crop based on parameters like K,N,pH,etc.
-- 
-
 
 
 ## Feature List
