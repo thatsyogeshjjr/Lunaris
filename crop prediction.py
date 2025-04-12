@@ -14,7 +14,7 @@ st.title("Crop Prediction App 🌾")
 # Load internal dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv("data.csv")
+    return pd.read_csv("data/crops.csv")
 
 # Save updated dataset
 def save_data(updated_data):
