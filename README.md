@@ -3,7 +3,8 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 
 ## Tech Stack
 ### AI, transformers, Models
-- **DNgigi/NPKRecommendation**:  Random Forest Regressor for Crop Nutrient Prediction 
+- **Decision Tree Classifier**:  for predicting suitable crop based on parameters like K,N,pH,etc.
+- 
 
 
 
