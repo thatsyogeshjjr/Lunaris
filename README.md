@@ -6,7 +6,7 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 <img src="https://github.com/user-attachments/assets/7c7dce33-c6a1-4e13-bfcd-c308d857e33a" height=360>
 
 ## Tech Stack
-## Backend (Core Brain of the System)
+### Backend (Core Brain of the System)
 - AI/ML Model:
 - Language: Python 
 Libraries:
