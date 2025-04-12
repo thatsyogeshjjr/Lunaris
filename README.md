@@ -1,14 +1,18 @@
 # Lunaris
 __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture__
 
+## Tentative user interfaces
+<img src="https://github.com/user-attachments/assets/224e3350-cf70-4f2b-b786-ae991b12a1a1" height=360>
+<img src="https://github.com/user-attachments/assets/7c7dce33-c6a1-4e13-bfcd-c308d857e33a" height=360>
+
 ## Tech Stack
-### Backend (Core Brain of the System)
+## Backend (Core Brain of the System)
 - AI/ML Model:
-    - Language: Python 
-    Libraries:
-        - scikit-learn or XGBoost for **initial regression models**
-        - pandas, NumPy for **data manipulation**
-        - joblib or pickle to **serialize models** for deployment
+- Language: Python 
+Libraries:
+    - scikit-learn or XGBoost for **initial regression models**
+    - pandas, NumPy for **data manipulation**
+    - joblib or pickle to **serialize models** for deployment
 - API Framework: FastAPI OR Flask
 - Data Integration: OpenWeatherMap and NASA POWER API
 - Database: PostgreSQL with PostGIS or Firebase
@@ -59,6 +63,7 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
     ```
     streamlit run [app_name].py
     ``` 
+
 
 
 ## Making application accessible
