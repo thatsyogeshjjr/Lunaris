@@ -35,19 +35,21 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 
 # Demo Videos
 - [Crop Prediction](https://youtu.be/i9wpE1C-MpA)
-
  
 ## App Details
 - Crop Prediction: uses Decision Tree for prediction of crop based on nitrogetn, potassium, phosphorus, rainfall and temperature parameters
-- 
 
 
-## Feature List
-- [x] Crop prediction
-- [ ] Personalized Crop Advisory
-- [ ] Weather Forecasting
-- [ ] Market Information
-- [ ] Farm Record Management
+## Feature List 
+- [x] Regression model for water blueprint for water blueprint prediction
+- [ ] Random forest for water blueprint for water blueprint pridiction
+- [ ] Gradient Boosting / XGBoost for water blueprint prediction
+- [ ] Dashboard with Water Blueprint
+
+## Additional Features
+- [x] Crop prediction model prototype on streamlit
+- [ ] Personalized Crop Advisory prototype on streamlit
+- [ ] Farm Record Management prototype on streamlit
 
 
 ## Making application accessible
