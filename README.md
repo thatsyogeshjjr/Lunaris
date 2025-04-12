@@ -6,19 +6,12 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 - AI/ML Model:
     - Language: Python 
     Libraries:
-        scikit-learn or XGBoost for initial regression models
-        pandas, NumPy for data manipulation
-        joblib or pickle to serialize models for deployment
-- API Layer:
-    Framework:
-        FastAPI OR Flask
-- Data Integration:
-    Climate/Satellite APIs:
-        OpenWeatherMap
-        NASA POWER API
-
-- Database:
-    PostgreSQL with PostGIS or Firebase
+        - scikit-learn or XGBoost for **initial regression models**
+        - pandas, NumPy for **data manipulation**
+        - joblib or pickle to **serialize models** for deployment
+- API Framework: FastAPI OR Flask
+- Data Integration: OpenWeatherMap and NASA POWER API
+- Database: PostgreSQL with PostGIS or Firebase
 
 ### Frontend (User Dashboard)
 - Framework:
@@ -29,9 +22,8 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
         Leaflet.js or Mapbox for regional visualizations
 
 ### Report Generation
-- PDF/CSV:
-  reportlab or pdfkit for PDF
-  pandas.to_csv() for CSV export
+- PDF/CSV: reportlab or pdfkit for PDF
+  
 ### AI, transformers, Models
 - **Decision Tree Classifier**:  for predicting suitable crop based on parameters like K,N,pH,etc.
 
@@ -39,10 +31,34 @@ __Not just an AI-Powered Water Footprint Calculator for Sustainable Agriculture_
 ## Feature List
 - [x] Crop prediction
 - [x] Irrigation Prediction
+- [x] Water Footprint
 - [ ] Personalized Crop Advisory
 - [ ] Weather Forecasting
 - [ ] Market Information
 - [ ] Farm Record Management
+
+## Demo Videos
+- [Crop Pridiction](https://youtu.be/i9wpE1C-MpA)
+- [Irrigation Prediction](#)
+- [Water Footprint](#)
+
+## Setting up and developing applications
+1. clone repo
+    ```
+    git clone https://github.com/thatsyogeshjjr/Lunaris
+    ```
+2. Go into directory
+    ```
+    cd Lunaris
+    ```
+3. Install required packages
+    ```
+    pip install -r requirements.txt
+    ```
+4. Run streamlit applications
+    ```
+    streamlit run [app_name].py
+    ``` 
 
 
 ## Making application accessible
